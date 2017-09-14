@@ -1,0 +1,3 @@
+c:\users\ariel\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+c:\users\ariel\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\ariel\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
