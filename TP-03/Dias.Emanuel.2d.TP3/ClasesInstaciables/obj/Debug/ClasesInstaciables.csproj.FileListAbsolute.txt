@@ -1,0 +1,11 @@
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\bin\Debug\ClasesInstaciables.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\bin\Debug\ClasesInstaciables.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\bin\Debug\Archivos.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\bin\Debug\Dias.Emanuel.2d.TP3.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\bin\Debug\Exepciones.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\bin\Debug\Archivos.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\bin\Debug\Dias.Emanuel.2d.TP3.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\bin\Debug\Exepciones.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\obj\Debug\ClasesInstaciables.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\obj\Debug\ClasesInstaciables.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\ClasesInstaciables\obj\Debug\ClasesInstaciables.pdb

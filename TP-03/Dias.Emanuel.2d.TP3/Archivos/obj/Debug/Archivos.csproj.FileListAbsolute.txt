@@ -1,0 +1,7 @@
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\Archivos\bin\Debug\Exepciones.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\Archivos\bin\Debug\Exepciones.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\Archivos\obj\Debug\Archivos.pdb

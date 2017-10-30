@@ -1,0 +1,15 @@
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\ClasesInstaciables.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\Dias.Emanuel.2d.TP3.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\Exepciones.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\Test.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\Archivos.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\ClasesInstaciables.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\Dias.Emanuel.2d.TP3.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\Exepciones.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\Test.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\bin\Debug\Archivos.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Dias.Emanuel.2d.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
